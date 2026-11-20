@@ -1,0 +1,6 @@
+{
+  "name": "Control de Extracciones",
+  "description": "Gestor personal offline de extracciones de efectivo en CUP y comisiones con contador de billetes, respaldo JSON/CSV y comprobantes PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

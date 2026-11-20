@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Banknote Card inside 66dp safe zone (center 54,54) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,39 C28,36.24 30.24,34 33,34 L75,34 C77.76,34 80,36.24 80,39 L80,69 C80,71.76 77.76,74 75,74 L33,74 C30.24,74 28,71.76 28,69 Z M34,42 L34,66 L74,66 L74,42 Z" />
+    <!-- Central Coin / Seal -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,46 A8,8 0 1,0 54,62 A8,8 0 1,0 54,46 Z" />
+    <!-- Upward Extraction Arrow Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,49.5 L58.5,54.5 L55.8,54.5 L55.8,58.5 L52.2,58.5 L52.2,54.5 L49.5,54.5 Z" />
+    <!-- Corner Dots on Banknote -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M39,46 A2,2 0 1,0 39,50 A2,2 0 1,0 39,46 Z M69,58 A2,2 0 1,0 69,62 A2,2 0 1,0 69,58 Z" />
+</vector>
